@@ -1,0 +1,18 @@
+.jumbotron{
+    padding-top: 6rem;
+    padding-bottom: 0rem;
+    background-color: rgba(220, 232, 247, 0.795);
+    
+}
+
+p{
+    padding-left: 2%;
+    
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+ 
